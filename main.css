@@ -1,0 +1,48 @@
+#top {
+	
+	width:725px;
+	height: 33px;
+}
+#top div#ngay {
+	
+	width: 200px;
+	height: 33px;
+	padding-top: 5px;
+	box-sizing: border-box;
+	float: left;
+	font-size: 12px;
+	
+
+}
+#top div#timkiem {
+	
+	width:300px;
+	height: 33px;
+	margin-left: 420px;
+	
+	
+}
+#top div#timkiem form {
+	margin-left: 95px;
+	
+}
+#top div#timkiem form input[type="text"]
+{
+	border: 1px solid black;
+	height: 25px;
+	background-color: #f8f8f8;
+	
+}
+#top div#timkiem form input[type="submit"]{
+	background-image: url(./images/timkiemz.jpg);
+	background-repeat: no-repeat;
+	width: 24px;
+	height: 24px;
+	background-size: contain;
+	border: none;
+	cursor: pointer;
+	
+
+}
+
+
